@@ -1,0 +1,26 @@
+#navbar{
+    display:flex;
+    width:90%;
+    height:100px;
+    color:white;
+    background-color: black;
+     margin: auto;
+     justify-content: space-around;
+     border-radius: 10px;
+
+}
+a{
+    text-decoration: none;
+    color:white;
+    margin: auto;
+}
+#search_Tab{
+    margin:auto;
+}
+#search{
+    margin:auto;
+    height:20px;
+    width:50%;
+    justify-content: center;
+    margin-top: 200px;
+}
